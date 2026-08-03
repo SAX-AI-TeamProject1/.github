@@ -7,7 +7,7 @@
 
 ## 데모
 
-<img src="profile/assets/demo-pipeline.png" alt="Signal-Vision 실시간 수신호 인식 → RViz LaserScan → Gazebo 창고 시뮬레이션" width="100%" />
+<img src="https://raw.githubusercontent.com/SAX-AI-TeamProject1/.github/main/profile/assets/demo-pipeline.png" alt="Signal-Vision 실시간 수신호 인식 → RViz LaserScan → Gazebo 창고 시뮬레이션" width="100%" />
 
 왼쪽 위: 웹캠 영상에서 실시간으로 수신호(`left_go`)를 인식하는 Signal-Vision 추론 패널.
 오른쪽 위·아래: 인식된 신호를 받아 Gazebo 창고 시뮬레이션에서 로봇이 반응하는 모습.
