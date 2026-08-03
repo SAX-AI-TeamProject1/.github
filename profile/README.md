@@ -18,6 +18,6 @@
 | 저장소 | 역할 |
 |---|---|
 | [Signal-Vision](https://github.com/SAX-AI-TeamProject1/Signal-Vision) | 웹캠 → MediaPipe 손/포즈 랜드마크 → LSTM 수신호 분류 |
-| [Signal-Simulation](https://github.com/SAX-AI-TeamProject1/Signal-Simulation) | ROS 2 + Gazebo. 인식된 수신호로 시뮬레이션 로봇을 정지/서행/좌우회전 제어 |
+| [Signal-Simulation](https://github.com/SAX-AI-TeamProject1/Signal-Simulation) | ROS 2 + Gazebo. Signal-Vision의 결과를 로봇의 정지/서행/목적지 설정 | 라이다로 충돌 예측하여 서행 및 비상 정지 |
 | [Signal-transport-perception](https://github.com/SAX-AI-TeamProject1/Signal-transport-perception) | YOLO 기반 이동간 장애물 인지 |
 | [Industrial-data](https://github.com/SAX-AI-TeamProject1/Industrial-data) | 학습/검증용 데이터셋 |
